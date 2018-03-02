@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ComponentesUI</string>
+    <string name="scrollview_horizontalscrollview">Android horizontalScrollView Example</string>
+    <string name="scrollview_example">Android ScrollView Example</string>
+    <string name="scrollview_scrollview_button">ir a Button Example</string>
+</resources>
